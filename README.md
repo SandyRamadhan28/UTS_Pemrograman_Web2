@@ -23,11 +23,11 @@
 ### Output
 Saat eksperimen berhasil, tampilan di browser:
 
-![img](gambar/aman.png) <br>
+![img](gambar/Amann.png) <br>
 
 Saat eksperimen gagal, tampilan di browser:
 
-![img](gambar/rentan.png) <br>
+![img](gambar/Rentann.png) <br>
 
 
 
